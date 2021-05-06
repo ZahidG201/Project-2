@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Execute leads">
+  <test name="Contacts Adding">
+  
+    <classes>
+      <class name="testcodes.Keyword"/>
+      <class name="testcodes.Exexutescodes"/>
+    </classes>
+  </test>
+  
+  <!-- Test -->
+</suite> <!-- Suite -->
